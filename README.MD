@@ -1,8 +1,5 @@
 # Projeto apuração eleiçoes 2022 usando API TSE
 
-
-![](https://im3.ezgif.com/tmp/ezgif-3-5c2872db1b.gif)
-
 O projeto usa Request para puxar os dados do Json da API do TSE
 
 Json para montar e fomentar a estrutura do Json
